@@ -35,7 +35,7 @@ CSV files and a SQL Server backup are in [`datasets/`](datasets/).
 
 ## Analysis workflow
 
-![Project Roadmap](docs/Project%20Roadmap.png)
+![SQL Analytics Workflow](docs/analytics_workflow.svg)
 
 | # | Script | What it does | Techniques |
 |---|---|---|---|
